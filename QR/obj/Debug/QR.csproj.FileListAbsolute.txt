@@ -1,0 +1,10 @@
+D:\work\c#\QR_work\QR\QR\bin\Debug\QR.exe.config
+D:\work\c#\QR_work\QR\QR\bin\Debug\QR.exe
+D:\work\c#\QR_work\QR\QR\bin\Debug\QR.pdb
+D:\work\c#\QR_work\QR\QR\bin\Debug\MessagingToolkit.QRCode.dll
+D:\work\c#\QR_work\QR\QR\obj\Debug\QR.csprojResolveAssemblyReference.cache
+D:\work\c#\QR_work\QR\QR\obj\Debug\QR.Form1.resources
+D:\work\c#\QR_work\QR\QR\obj\Debug\QR.Properties.Resources.resources
+D:\work\c#\QR_work\QR\QR\obj\Debug\QR.csproj.GenerateResource.Cache
+D:\work\c#\QR_work\QR\QR\obj\Debug\QR.exe
+D:\work\c#\QR_work\QR\QR\obj\Debug\QR.pdb
